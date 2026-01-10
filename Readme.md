@@ -1,2 +1,2 @@
 ## 💻 Software Engineer (Data)
-Software Engineer with hands-on experience in healthcare analytics and data engineering. Skilled in building ETL and data warehousing solutions using Oracle PL/SQL, ODI, and related tools, as well as modern cloud technologies such as Apache Spark, Delta Lake, Snowflake, Airbyte, Airflow, Docker, and AWS Services.
+Software Engineer (Data) with experience in healthcare analytics and data engineering. Skilled in building ETL pipelines and data-warehousing solutions using Apache Spark, Python, Delta Lake, dbt, Snowflake, Airbyte, and Airflow. Experienced with cloud and lakehouse architectures on AWS and Azure, containerization with Docker, and working with PostgreSQL and Oracle technologies (PL/SQL, ODI, Oracle 19c+).
